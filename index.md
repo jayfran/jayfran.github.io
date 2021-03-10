@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## Featured Project
+
+### 2020 Politics
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to about page](./about.md).
