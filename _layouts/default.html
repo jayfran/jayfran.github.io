@@ -15,20 +15,21 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <nav>
-           <a href="{{site.baseurl}}/">Home</a>
-           <br />
-           <a href="{{site.baseurl}}/about">About</a>
-           <br />
-           <a href="{{site.baseurl}}/projects">Projects</a>
-           <br />
-        </nav>
+        <p>Pronouns in use: they/them/theirs</p>
+        <h2><nav>
+          <a href="{{site.baseurl}}/">Home</a>
+          <br />
+          <a href="{{site.baseurl}}/about">About</a>
+          <br />
+          <a href="{{site.baseurl}}/projects">Projects</a>
+          <br />
+        </nav></h2>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <br />
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
