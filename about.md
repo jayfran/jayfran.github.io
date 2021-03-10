@@ -9,7 +9,7 @@ I’m a data scientist and recent graduate of a dual degree engineering program 
 
 Some of my work experiences have included consulting, operations, non-profit, finance, and working with youth. I’m passionate about using my skillset to create positive social change in areas like gender equity, LGBTQ+ rights, and youth empowerment!
 
-Some of my hobbies include playing Ultimate Frisbee, reading Science Fiction, and leading Dungeons & Dragons games! I also enjoy using Python to explore how data relates to the things I’m curious about like politics, music, and more (check out my ~ **Projects** ~). 
+Some of my hobbies include playing Ultimate Frisbee, reading Science Fiction, and leading Dungeons & Dragons games! I also enjoy using Python to explore how data relates to the things I’m curious about like politics, music, and more (check out my ~ [Projects](./projects) ~). 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
