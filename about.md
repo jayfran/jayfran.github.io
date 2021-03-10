@@ -5,9 +5,9 @@ title: About Me
 
 # About Me
 
-I’m a recent graduate of a dual degree engineering program between Oberlin College (BA) and Columbia University (BS). My major, Operations Research: Engineering Management Systems, has prepared me to be a holistic problem solver with technical expertise in data analytics, visualization, and machine learning (Python, Excel, SQL, R). Some of my work experiences have included consulting, operations, finance, non-profit, and Ultimate Frisbee coaching! I’m passionate about using my skillset to create positive social change in areas like gender equity, LGBTQ+ rights, and youth empowerment.
+I’m a recent graduate of a dual degree engineering program between _Oberlin College_ (BA) and _Columbia University_ (BS). My major, Operations Research: Engineering Management Systems, has prepared me to be a holistic problem solver with technical expertise in data analytics, visualization, and machine learning (Python, Excel, SQL, R). Some of my work experiences have included consulting, operations, finance, non-profit, and Ultimate Frisbee coaching. I’m passionate about using my skillset to create positive social change in areas like gender equity, LGBTQ+ rights, and youth empowerment!
 
-Some of my hobbies include playing Ultimate Frisbee, reading Stephen King novels, and leading Dungeons & Dragons games! I also enjoy using Python to explore how data relates to the things I’m curious about like politics, music, and more! (Check out my projects here!)
+Some of my hobbies include playing Ultimate Frisbee, reading Science Fiction, and leading Dungeons & Dragons games! I also enjoy using Python to explore how data relates to the things I’m curious about like politics, music, and more. (Check out my projects!)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
